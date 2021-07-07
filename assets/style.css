@@ -134,7 +134,7 @@ footer{
   background: fixed url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/random_grey_variations.png' );  
 }
 footer a{
-	color:white;
+	color:rgb(60, 70, 64);
 }
 
 footer a:hover{

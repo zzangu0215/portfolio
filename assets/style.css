@@ -134,7 +134,7 @@ footer{
   background: fixed url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/random_grey_variations.png' );  
 } */
 .dark-bg {
-  background: fixed url("../images/random_grey_variations.png")
+  background: fixed url("../images/random-grey-variations.png")
 }
 footer a{
 	color:rgb(60, 70, 64);

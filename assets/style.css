@@ -127,10 +127,13 @@ font-size: 1.5em;
 footer{
   height : 100%;
 	min-height:250px;
-	color:#ccc;
+	color:rgb(27, 26, 26);
 	font-size:1.5em;
 }
 
+p{
+  font-family: 'Share Tech Mono',monospace;
+}
 /* .dark-bg {
   background: fixed url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/random_grey_variations.png' );  
 } */
@@ -138,7 +141,7 @@ footer{
   background: fixed url("../images/random-grey-variations.png")
 }
 footer a{
-	color:rgb(60, 70, 64);
+	color:rgb(97, 110, 103);
 }
 
 footer a:hover{
